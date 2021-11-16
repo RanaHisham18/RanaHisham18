@@ -1,10 +1,5 @@
-### Hi there 👋
-
-<!--
-**RanaHisham18/RanaHisham18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+✨Hi There✨
+- I’m a junior android developer.
 - 🔭 I’m currently working on side projects to acquire some experience.
 - 🌱 I’m currently learning co-routines, unit testing and Jet-Pack compose.
 - 💬 Ask me about Software Development.
